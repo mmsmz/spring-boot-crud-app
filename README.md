@@ -1,6 +1,7 @@
 - Dependency
-Springboot 
-h2database 
-spring-data-jpa
-web-application 
-lombok
+
+  - Springboot 
+  - h2database
+  - spring-data-jpa
+  - web-application 
+  - lombok
